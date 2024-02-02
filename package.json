@@ -1,0 +1,10 @@
+{
+  "name": "tictacmul",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimatch": "3.0.4"
+  }
+}
